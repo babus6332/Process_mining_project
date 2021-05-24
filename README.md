@@ -1,5 +1,5 @@
 ## Big Data project
-Project by course Big Data: Detection of anomalies in flight data.
+Project by course Process mining: building a graph of the approval process of applications and testing hypotheses.
 
 # Team:
 
